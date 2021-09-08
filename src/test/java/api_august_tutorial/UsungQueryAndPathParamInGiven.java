@@ -2,7 +2,7 @@ package api_august_tutorial;
 
 import io.restassured.RestAssured;
 
-public class UsungQueryAndPathParamInGiven {
+public class UsingQueryAndPathParamInGiven {
 
 	public static void main(String[] args) {
 		String url="https://api.github.com/orgs/{orgName}/repos";
